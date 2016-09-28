@@ -7,22 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6002CB291D9C051500756B5F /* BootLogic.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB261D9C051500756B5F /* BootLogic.m */; };
+		6002CB2A1D9C051500756B5F /* MainScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB281D9C051500756B5F /* MainScreen.m */; };
+		6002CB2E1D9C109600756B5F /* RotationPinchRecognizerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB2D1D9C109600756B5F /* RotationPinchRecognizerViewController.m */; };
+		6002CB311D9C12BB00756B5F /* Case01.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB301D9C12BB00756B5F /* Case01.m */; };
+		6002CB351D9C267B00756B5F /* Case02.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB341D9C267B00756B5F /* Case02.m */; };
+		6002CB381D9C285500756B5F /* Case03.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB371D9C285500756B5F /* Case03.m */; };
+		6002CB3B1D9C2B3600756B5F /* Case04.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB3A1D9C2B3600756B5F /* Case04.m */; };
+		6002CB3E1D9C30A200756B5F /* Case05.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB3D1D9C30A200756B5F /* Case05.m */; };
+		6002CB411D9C359400756B5F /* Case06.m in Sources */ = {isa = PBXBuildFile; fileRef = 6002CB401D9C359400756B5F /* Case06.m */; };
 		605AA4F01D9A66FF008796B1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 605AA4EF1D9A66FF008796B1 /* main.m */; };
 		605AA4F31D9A66FF008796B1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 605AA4F21D9A66FF008796B1 /* AppDelegate.m */; };
 		605AA4F61D9A66FF008796B1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 605AA4F51D9A66FF008796B1 /* ViewController.m */; };
-		605AA4F91D9A66FF008796B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 605AA4F71D9A66FF008796B1 /* Main.storyboard */; };
 		605AA4FB1D9A66FF008796B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 605AA4FA1D9A66FF008796B1 /* Assets.xcassets */; };
 		605AA4FE1D9A66FF008796B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 605AA4FC1D9A66FF008796B1 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6002CB251D9C051500756B5F /* BootLogic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BootLogic.h; sourceTree = "<group>"; };
+		6002CB261D9C051500756B5F /* BootLogic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BootLogic.m; sourceTree = "<group>"; };
+		6002CB271D9C051500756B5F /* MainScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainScreen.h; sourceTree = "<group>"; };
+		6002CB281D9C051500756B5F /* MainScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainScreen.m; sourceTree = "<group>"; };
+		6002CB2C1D9C109600756B5F /* RotationPinchRecognizerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RotationPinchRecognizerViewController.h; sourceTree = "<group>"; };
+		6002CB2D1D9C109600756B5F /* RotationPinchRecognizerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RotationPinchRecognizerViewController.m; sourceTree = "<group>"; };
+		6002CB2F1D9C12BB00756B5F /* Case01.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Case01.h; sourceTree = "<group>"; };
+		6002CB301D9C12BB00756B5F /* Case01.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Case01.m; sourceTree = "<group>"; };
+		6002CB331D9C267B00756B5F /* Case02.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Case02.h; sourceTree = "<group>"; };
+		6002CB341D9C267B00756B5F /* Case02.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Case02.m; sourceTree = "<group>"; };
+		6002CB361D9C285500756B5F /* Case03.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Case03.h; sourceTree = "<group>"; };
+		6002CB371D9C285500756B5F /* Case03.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Case03.m; sourceTree = "<group>"; };
+		6002CB391D9C2B3600756B5F /* Case04.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Case04.h; sourceTree = "<group>"; };
+		6002CB3A1D9C2B3600756B5F /* Case04.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Case04.m; sourceTree = "<group>"; };
+		6002CB3C1D9C30A200756B5F /* Case05.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Case05.h; sourceTree = "<group>"; };
+		6002CB3D1D9C30A200756B5F /* Case05.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Case05.m; sourceTree = "<group>"; };
+		6002CB3F1D9C359400756B5F /* Case06.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Case06.h; sourceTree = "<group>"; };
+		6002CB401D9C359400756B5F /* Case06.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Case06.m; sourceTree = "<group>"; };
 		605AA4EB1D9A66FF008796B1 /* iPinchRotate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPinchRotate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		605AA4EF1D9A66FF008796B1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		605AA4F11D9A66FF008796B1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		605AA4F21D9A66FF008796B1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		605AA4F41D9A66FF008796B1 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		605AA4F51D9A66FF008796B1 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		605AA4F81D9A66FF008796B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		605AA4FA1D9A66FF008796B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		605AA4FD1D9A66FF008796B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		605AA4FF1D9A66FF008796B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -39,6 +64,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6002CB2B1D9C051B00756B5F /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				605AA4F41D9A66FF008796B1 /* ViewController.h */,
+				605AA4F51D9A66FF008796B1 /* ViewController.m */,
+				605AA4F11D9A66FF008796B1 /* AppDelegate.h */,
+				605AA4F21D9A66FF008796B1 /* AppDelegate.m */,
+				6002CB251D9C051500756B5F /* BootLogic.h */,
+				6002CB261D9C051500756B5F /* BootLogic.m */,
+				6002CB271D9C051500756B5F /* MainScreen.h */,
+				6002CB281D9C051500756B5F /* MainScreen.m */,
+			);
+			name = Core;
+			sourceTree = "<group>";
+		};
+		6002CB321D9C12D100756B5F /* Case */ = {
+			isa = PBXGroup;
+			children = (
+				6002CB2F1D9C12BB00756B5F /* Case01.h */,
+				6002CB301D9C12BB00756B5F /* Case01.m */,
+				6002CB331D9C267B00756B5F /* Case02.h */,
+				6002CB341D9C267B00756B5F /* Case02.m */,
+				6002CB361D9C285500756B5F /* Case03.h */,
+				6002CB371D9C285500756B5F /* Case03.m */,
+				6002CB391D9C2B3600756B5F /* Case04.h */,
+				6002CB3A1D9C2B3600756B5F /* Case04.m */,
+				6002CB3C1D9C30A200756B5F /* Case05.h */,
+				6002CB3D1D9C30A200756B5F /* Case05.m */,
+				6002CB3F1D9C359400756B5F /* Case06.h */,
+				6002CB401D9C359400756B5F /* Case06.m */,
+			);
+			name = Case;
+			sourceTree = "<group>";
+		};
 		605AA4E21D9A66FF008796B1 = {
 			isa = PBXGroup;
 			children = (
@@ -58,11 +117,10 @@
 		605AA4ED1D9A66FF008796B1 /* iPinchRotate */ = {
 			isa = PBXGroup;
 			children = (
-				605AA4F11D9A66FF008796B1 /* AppDelegate.h */,
-				605AA4F21D9A66FF008796B1 /* AppDelegate.m */,
-				605AA4F41D9A66FF008796B1 /* ViewController.h */,
-				605AA4F51D9A66FF008796B1 /* ViewController.m */,
-				605AA4F71D9A66FF008796B1 /* Main.storyboard */,
+				6002CB321D9C12D100756B5F /* Case */,
+				6002CB2B1D9C051B00756B5F /* Core */,
+				6002CB2C1D9C109600756B5F /* RotationPinchRecognizerViewController.h */,
+				6002CB2D1D9C109600756B5F /* RotationPinchRecognizerViewController.m */,
 				605AA4FA1D9A66FF008796B1 /* Assets.xcassets */,
 				605AA4FC1D9A66FF008796B1 /* LaunchScreen.storyboard */,
 				605AA4FF1D9A66FF008796B1 /* Info.plist */,
@@ -139,7 +197,6 @@
 			files = (
 				605AA4FE1D9A66FF008796B1 /* LaunchScreen.storyboard in Resources */,
 				605AA4FB1D9A66FF008796B1 /* Assets.xcassets in Resources */,
-				605AA4F91D9A66FF008796B1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,23 +207,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6002CB291D9C051500756B5F /* BootLogic.m in Sources */,
+				6002CB351D9C267B00756B5F /* Case02.m in Sources */,
+				6002CB381D9C285500756B5F /* Case03.m in Sources */,
+				6002CB311D9C12BB00756B5F /* Case01.m in Sources */,
+				6002CB2A1D9C051500756B5F /* MainScreen.m in Sources */,
+				6002CB411D9C359400756B5F /* Case06.m in Sources */,
+				6002CB3B1D9C2B3600756B5F /* Case04.m in Sources */,
 				605AA4F61D9A66FF008796B1 /* ViewController.m in Sources */,
 				605AA4F31D9A66FF008796B1 /* AppDelegate.m in Sources */,
 				605AA4F01D9A66FF008796B1 /* main.m in Sources */,
+				6002CB3E1D9C30A200756B5F /* Case05.m in Sources */,
+				6002CB2E1D9C109600756B5F /* RotationPinchRecognizerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		605AA4F71D9A66FF008796B1 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				605AA4F81D9A66FF008796B1 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		605AA4FC1D9A66FF008796B1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -307,6 +365,7 @@
 				605AA5041D9A66FF008796B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
